@@ -1,4 +1,4 @@
-# Install script for directory: D:/Documents/NSCC/OneDrive - Nova Scotia Community College/2023.01/PROG2100/Assignments/03_20230325
+# Install script for directory: C:/Users/w0438057/OneDrive - Nova Scotia Community College/2023.01/PROG2100/Assignments/03_20230325
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Users/Admin/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.8836.42/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Users/w0438057/AppData/Local/JetBrains/CLion 2022.3.1/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Documents/NSCC/OneDrive - Nova Scotia Community College/2023.01/PROG2100/Assignments/03_20230325/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/w0438057/OneDrive - Nova Scotia Community College/2023.01/PROG2100/Assignments/03_20230325/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
