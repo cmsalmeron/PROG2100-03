@@ -17,7 +17,7 @@ RationalNumber rnAsk () {
     //Assess Input and re-ask for input until format is valid
     while (rnInputValid == false) {
         cout << "Please enter a rational number. The following formats are acceptable:"
-             << "\n\t- Nothing (will be interpreted as 0"
+             << "\n\t- Nothing (will be interpreted as 0)"
              << "\n\t- A single integer"
              << "\n\t- 2 integers separated by a comma (\",\")"
              << "\n\t- A fraction (x/y)"
